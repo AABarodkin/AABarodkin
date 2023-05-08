@@ -9,7 +9,7 @@
 
 ### 💡 Core competencies 💡
 - Tools: SQL, Python
-  - Skills:
+- Skills:
     - Hard skills:
           - Mathematical statistics;
           - Data Preprocessing and Data Analysis;
