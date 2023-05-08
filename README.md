@@ -9,18 +9,17 @@
 
 ### 💡 Core competencies 💡
 - Tools: SQL, Python
-- Skills:
-    - Hard skills:
-          - Mathematical statistics;
-          - Data Preprocessing and Data Analysis;
-          - Machine Learning and Deep Learning;
-          - CV;
-          - Relational Databases;
-    - Soft skills:
-          - Learning;
-          - Communication skills;
-          - Team player;
-          - Management;
+ - Hard skills:
+    - Mathematical statistics;
+    - Data Preprocessing and Data Analysis;
+    - Machine Learning and Deep Learning;
+    - CV;
+    - Relational Databases;
+ - Soft skills:
+    - Learning;
+    - Communication skills;
+    - Team player;
+    - Management;
 
 ### ⚡️ Currently ⚡️
 - I own libraries for data analysis and machine learning: pandas, numpy, matplotlib, seaborn, scipy, sklearn;
