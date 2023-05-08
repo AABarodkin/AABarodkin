@@ -2,7 +2,7 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Moscow physical technical institute (MFTI):
-- Master's degree: 2022-2024 Data science;
+- Master's degree: 2022-2024, Data science;
 * 🎓 Belarusian National Technical University (BNTU):
 - Bachelor's degree: 2004-2009, power engineering faculty,  thermal power plants;
 * 🤖 I've been cooking in Data Science since 2021
